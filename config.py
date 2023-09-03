@@ -4,7 +4,7 @@ nums = "123456789"
 
 symbols = "йцукенгшщзхъфывапролджэячсмитьбюё qwertyuiopasdfghjklzxcvbnm,.';!?"
 
-token = '6475977596:AAHcPZY74-FZVO7iLz7zadjC18JabpbNGWs'
+token = 'token'
 
 
 def Spam(id, text):
